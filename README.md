@@ -27,3 +27,8 @@ Make sure you have the following installed on your machine:
 - **LangChain Ollama** (`pip install langchain_ollama`)
 
 ---
+
+### **1️⃣ Clone the Repository**
+```sh
+https://github.com/Shraddha0321/deepseek_health_chatbot.git
+cd health-chatbot

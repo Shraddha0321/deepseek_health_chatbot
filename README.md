@@ -28,7 +28,7 @@ Make sure you have the following installed on your machine:
 
 ---
 
-### **1️⃣ Clone the Repository**
+### **1️ Clone the Repository**
 ```sh
 https://github.com/Shraddha0321/deepseek_health_chatbot.git
 cd health-chatbot
